@@ -1,0 +1,45 @@
+#heading {
+	display: flex;
+	justify-content: center;
+	background: grey;
+	color: white;
+
+font-family: 'Rancho', cursive;
+}
+
+	body {
+		background: gray;	
+	}
+
+	#main {
+		background: black;
+		max-width: 800px;
+		margin: 5px auto;
+		color: white; 
+		font-family: 'Oswald', sans-serif;
+	}
+
+	.threed:hover
+	{
+		box-shadow:
+				1px 1px blue
+				2px 2px blue
+				3px 3px blue;
+		-webkit-transform: translateX(-3px);
+		transform: translateX(-3px);
+	}
+	.color:hover
+	{
+		background: #53a7ea;
+	}
+
+	ul {
+		justify-content: center;
+		margin: 0 0 10px 10px;
+		font-family: 'Oswald', sans-serif;
+	}
+
+	span {
+		font-family: 'Rancho', cursive;
+		width: ;
+	}
